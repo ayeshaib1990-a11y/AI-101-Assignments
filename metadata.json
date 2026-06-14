@@ -1,0 +1,6 @@
+{
+  "name": "Pet Health & Wellness Tracker (Pakistan)",
+  "description": "Full-stack pet health, wellness, and vaccination tracker localized for pet owners in Pakistan, featuring an AI health advisor, Urdu translation, emergency vet finder, vaccine milestones, and offline-first persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
